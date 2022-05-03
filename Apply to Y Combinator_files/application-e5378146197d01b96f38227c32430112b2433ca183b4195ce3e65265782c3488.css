@@ -357,6 +357,12 @@ html {
 *, *:before, *:after {
   box-sizing: inherit; }
 
+.bold {
+  font-weight: bold; }
+
+.nowrap {
+  white-space: nowrap; }
+
 .hide {
   display: none; }
 
@@ -558,6 +564,7 @@ button.tt, a.tt {
   cursor: pointer; }
 
 #tooltip {
+  pointer-events: none;
   position: absolute;
   top: 0;
   left: 0;
@@ -2797,7 +2804,7 @@ body {
 
 b, strong, cite, article h3, footer h3, cite {
   font-family: "Avenir Heavy", Avenir, Helvetica, Arial, sans-serif;
-  font-weight: normal; }
+   }
 
 b, strong {
   line-height: 1.4; }
@@ -3356,6 +3363,9 @@ footer {
 section.founderform .q.age input[type='text'],
 section.founderform .q.gender input[type='text'] {
   width: 100% !important; }
+
+.q.product_link {
+  margin-bottom: 0; }
 
 .title h1 {
   font-family: "Avenir Light", Avenir, Helvetica, Arial, sans-serif; }

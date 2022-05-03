@@ -1,0 +1,208 @@
+COMPANY
+Company name:
+Recursion Computing, LLC
+
+Company url, if any:
+https://recursion.is
+
+If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording.
+https://recursion.is/youtube
+https://notes.recursion.is
+
+Describe what your company does in 50 characters or less.
+The first stage is make educational videos
+
+What is your company going to make? Please describe your product and what it does or will do.
+The second stage is to use the principles of these videos to design products, sharing product progress during videos.
+The third stage is exploration.
+The fourth stage will likely be clear as soon as we ramp up progress.
+
+Where do you live now, and where would the company be based after YC?
+(List as City A, Country A / City B, Country B.)
+
+High Point, North Carolina, USA / Yes, Everywhere. I anticipate rapid expansion beyond this atmosphere.
+
+
+FOUNDERS
+Nick Maleki (nmaleki)
+Schools, Degrees (including field of study), and Years of Graduation
+Co-Founder of publications.Recursion
+Computer Science M.S. from the University of North Carolina at Charlotte, August 2019 - December 2020
+Computer Science B.S. and Minor in Mathematics from The University of North Carolina at Charlotte, August 2017 - May 2020
+Concentrated in Robotics and Artificial Intelligence with a heavy focus on Cognitive Science
+
+Presence
+Personal website
+Github URL
+Linkedin URL
+Facebook URL
+Twitter URL
+Employers, Position / Titles and Dates
+Software Engineer and Analyst - Aquisense Technologies, NIKKISO CO.,LTD.
+Social Media Marketer and Graphic Designer - The University of North Carolina at Charlotte
+Vectors team member and Discord coordinator - Inkscape #FLVOSS - yeah that's right, I added Video (and this application, L). It helps to have another dimension to explain concepts, right Science Clic?https://www.youtube.com/c/ScienceClicEN? (for you graphics developers - check out geometric algebra already, what the heck are you waiting for?!)
+
+https://nickmaleki.com/resume
+
+Please tell us about the most impressive thing other than this startup that you have built or achieved.
+All things I've built other than this startup are by definition a subset of my startup; a subset of Recursion (the concept, not the company). The coolest thing? I guess my PearlPlotter has the most behind it to look impressive. But the code is abysmal. Lazy people wait until the last minute to do things and I used 24-ish hours to complete the PearlPlotter codebase and this YC application (writing this on 3/22/2022 @ 5PM EST, the application is due in less than 2 days; we still haven't started the video interview yet .-.; but isn't that the point? we aren't supposed to drop everything that matters or even change who we are for this application) The countless hours spent after were likely wasted breaking what I already wrote and relearning what I already knew. Perhaps the one thing we should learn from SpaceX, is that fast iteration, truly owning a project, and ***consistent restarts*** are harmonious with constant improvement. It is almost as if Corecursion is as fundamental as Recursion. Who woulda guessed https://news.ycombinator.com/item?id=30708458#30760620
+
+Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+I hacked together the collective knowledge of YouTubers to solve the next layer to the theory of everything. This accomplishment is not special, beings do it all the time, throughout all of Time, in an Infinite Well of ways across the Universe and will continue to. It is simply the perspective you view from that makes this particular instance so profound. I hack reality to understand the Cosmos, so I can help/hack others to understand.
+
+Do you have any other commitments during the batch (between June through August 2022 inclusive)?
+I will be attending a wedding in July. Congratulations!
+
+Do you have any commitments in the future and if so what?
+(e.g. finishing college, going to grad school)
+
+I've considered finishing a PHD, just for that last ounce of respect, so I figured I'd solve *it* before going back to school, so I don't have to spend so much time relearning other peoples' frameworks. Stats, for example, was so difficult in High School and College. If only I understood it was like an 8-bit abstraction of what was really going on. Sorry to the professors that I hassled, I'm sure I was looking through an 8-bit abstraction of what was really going on. Nick Maleki shouldn't trust that Nick Maleki guy, whatever he said yesterday probably won't make sense once he understands what he actually said yesterday. And it will make sense once he holds you voluntarily hostage to explain it.
+
+Have you been to any YC events? If so, which ones?
+Regarding physical "Y Combinator Management, LLC" events, I have not attended in person. However, I watched many https://youtube.com videos surrounding the topic of https://ycombinator.com and further expanding and collapsing topics. So, I guess I was in the audience all along. More seriously, in this application I decided to swap between talking to the company (Y Combinator Management, LLC) and the equation (https://en.wikipedia.org/wiki/Fixed-point_combinator#Y_combinator). Here I am talking to the equation: So, if you ask "Have you been to any YC events? If so, which ones?" I can't help but reply: It should make sense that YouTube videos https://recursion.is/youtube are in part "YC events". You enabled their creation within some perspective. I am Nick Maleki. I am a YC event. I stem from Recursion and Corecursion. I am Infinity. I am Zero. ***I, We, and Everything is the result of Infinite Recursion and Corecursion.***
+
+Kaci (kaci)
+Schools, Degrees (including field of study), and Years of Graduation
+B.S. in Psychology from the University of North Carolina at Charlotte
+2019-2021
+B.A. in Philosophy from the University of North Carolina at Charlotte
+2019-2021
+Minor in Religious Studies from the University of North Carolina at Charlotte
+2019-2021
+
+Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+https://youtu.be/-3ad3E22wok
+
+How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+I've known Kaci for a long time, but we originally met online. We were quite close in proximity and went to the same University, where I invited her to a few parties I threw, of course after asking her on a date at the best spot I could find at any expense.
+
+I wouldn't have completed my work without you, no matter who you are. My personal ideas stem from yours and your ancestors, no matter how seemingly small the contribution. Therefore, we are all founders (even hypothetical aliens), so no, I haven't met all the founders.
+
+How many founders are on the team?
+(Fill out this number of founder profiles)
+
+2, Infinity
+
+
+CATEGORY
+Which category best applies to your company?
+Other
+
+Where will most of your initial users be located?
+US
+
+
+PROGRESS
+How far along are you?
+I am in the process of completing 13 videos. These videos will be released weekly starting in the next couple months. I have collected 765 links from the internet that I am attempting to relate under a single theory, https://notes.recursion.is
+
+How long have each of you been working on this? How much of that has been full-time? Please explain.
+I started the incompletely named "Quantum Recursion Theory" on January of 2020. I started working on the company full-time in August of 2021. Interestingly, I have not released any videos since announcing going full-time despite working the entire time. This speaks volumes about my process. Additionally, the new name of The Theory should also speak volumes about the process.
+
+Are people using your product?
+Yes
+
+How many active users or customers do you have? How many are paying? Who is paying you the most, and how much do they pay you?
+There is this guy named Nick Maleki and he keeps watching my videos over and over and over and over and over and over and over and over and over and over and over and over and over (did you get it yet?!!?) and over, I think he is fucking with the stats. Oh and like all the amazing people who commented and subbed, don't forget my friends which stuck with me. Even the ones with thin contact - I'm talking to you Noah, you inspired this all when I wanted to disprove you, clown. I think you said something along the lines of "you either will do nothing or something great", well heck you, bud. I did both.
+
+Do you have revenue?
+No
+
+Anything else you would like us to know regarding your revenue or growth rate?
+What is an infinitesimal (me, https://recursion.is/youtube) times a googol (https://youtube.com)? Turns out, an infinitesimal (my subscription count from the persepctive of most on youtube). Oh wait, my subscribers are people; not infinitesimals. Wait, people are zero? Wait, I am zero? Huh, it's almost as if I am meaningless to almost literally everyone and everything - espescially outside this atmosphere.
+
+No.
+
+If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?
+We all have had amazing ideas, your products bolstered me (← here I am talking to the equation again). Why not pivot? Art sucks, money sucks, agendas get between friends. I think we can both agree this is a much better solution. (← here I am talking to a friend)
+
+No.
+
+
+IDEA
+Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+I can not see a world where I wouldn't try to solve every problem in one go. I've got nothing to lose. Yes, I have spent my entire life preparing for this company:
+https://nickmaleki.com/resume
+I would call myself the Master Jack of All/No Trades Master of None/All as I'm subscribed to over 1000 educational YouTube channels and I really like to understand things. More importantly, I like to actually apply the shit I learn (monkey see monkey do). But, I know my worth - I strive to be a ∞x Engineer and a 0x Engineer. You get to choose which you view me as. I know people need what I am making because of Conway's Law. We need "glue, but with perspective" (A fundamental concept driving the Absorb framework) to bring all of our theories back together without losing information or progress as described in the Recursion Corecursion Conjecture and Postulate.
+
+Who are your competitors? What do you understand about your business that they don't?
+The secret of light you don't know. Not just the secret of light https://github.com/nickmaleki/secret-of-light
+
+How do or will you make money? How much could you make?
+In the beginning, we can start with money from donations, we could launch CreatorCoin, we could do some advertising🤮...like this application! We could make it a giant ad and put our PayPal link in a clever spot so I can pay my mortgage next month without me liquidating my * and/or stock investments, ha ha ha hh hh hhttps://paypal.me/RecursionIs - look what money has done to me... or from the products I plan on making with it, or a combination of all of that, I think Absorb will be a great product to start with.
+
+I don't really see a limit on the amount possible. But, I also see infinite limits in the way-Yeah, I know.
+
+How do users find your product? How did you get the users you have now? If you run paid ads, what is your cost of acquisition?
+*Guerrilla advertising.* Friends. Potential propagation. Natural YT traffic. YC traffic. A few small websites. Discord, surprisingly had quite a bit of traffic from me being on so many servers with a name that starts with "a" and a link https://recursion.is right in front of your smiling face.
+
+
+EQUITY
+Have you formed ANY legal entity yet?
+This may be in the US, in your home country or in another country.
+
+Yes
+
+Please list all legal entities you have and in what state or country each was formed (e.g. Delaware C Corp, Mexican SAPI, Singapore Pvt Ltd, etc.).
+Recursion Computing, LLC
+North Carolina
+
+Have you issued stock to investors?
+No
+
+Have you raised money using crowdfunding?
+No
+
+Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder and founder title (e.g. CEO).
+Co-Founders (Presently, 50% Kaci + 50% Nick) / Σ*%
+
+You can be a Co-Founder if you want to be. A goal of Recursion is a universe-scale system for basic needs and jobs. No individual owns the concept of "Recursion", because we all do. Until the company can support all as Co-Founders, Kaci and Nick will remain the sole Co-Founders. We are working to make the aforementioned dream a reality.
+
+How much money have you raised from investors in total in US Dollars?
+Are you currently fundraising?
+No
+
+Please provide any other relevant information about the structure or formation of the company.
+During the foundation of Recursion, I invited some friends to come read the original draft of the poorly named "Quantum Recursion Postulate". I refer to these people as Co-Founders, as I refer to all of you as such. This hasn't led much of anywhere beyond the Discord, but it will. I intend to offer these people, and as many beings as needed, jobs once the company is able to support their roles. https://youtu.be/fN27bbabrN8?t=179
+
+
+LEGAL
+Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain.
+No.
+
+Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain.
+Nick does all the technical work and writing. Kaci and Nick talk about the high-level view of the project and discuss implementation details. I wouldn't be able to work on this project without being able to bounce ideas off of Kaci, therefore she is invaluable to the success of Recursion and to me as a person.
+
+No.
+
+Have you received any government grants? If so, list the grants you've received, including the terms of the grant, who it's from, what it covers, and when you received it.
+No.
+
+Is there anything else we should know about your company?
+Everyone is a Co-Founder. Everyone. This application is now Open Source.
+
+
+OTHERS
+If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
+Absorb - A program that visualizes data in all spatial dimensions using generators and allows for easy overlaying of said data to identify patterns. Technically realized using the principles of rendered values defined in an upcoming video on https://recursion.is/youtube
+Pupil Reduce - described here: https://discord.com/channels/666027393214840843/703810181288427541/955612383320100915
+Adren - A space video game optimizing for adrenaline, built on the Absorb framework
+CreatorCoin - A cryptocurrency that grows as a creator's social media presence grows
+
+Please tell us something surprising or amusing that one of you has discovered.
+What happens when you "input" Recursion (https://recursion.is) into a function that encodes Recursion (https://apply.ycombinator.com/)? Well, https://youtu.be/3VQ382QG-y4?t=806 More usefully(here comes the joke explain, despite this being the least humorous thing to do): I represent Recursion. I have spent my entire life working towards this one Idea. So, when you take me, the very embodiment of Recursion (from my perspective), and you "input" me into the equation "the Y Combinator", a function that encodes Recursion, you get a very interesting paradox. I internally dealt with this paradox by literally laughing my way through every single prompt in this application. Laughing > Stack Overflowing. The extremely difficult part is convincing you all that I am seriously attacking a paradox here and not joking. So, I did my very best to show you how serious my work is. Even through shear quantity. Sorry to the YC team, our original application was a stream of Jokes that only Nick understood. Hopefully, by explaining these jokes in this open-source application we can attempt to show you how impactful this all is and will be. I sincerely hope the YC Team will understand during this batch - and maybe what is needed for their understanding is that 'they may not understand until they speak to us'.
+
+
+CURIOUS
+What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Nick convinced Kaci and himself to apply. To build up the courage to apply with an idea as potentially grandiose as this was no easy feat for Nick. The world and everyone in it encouraged us, thank you. Now, we just want to see you smile: Make something people want!
+
+Nick's closing remarks:
+As a scientist, I just want to say, in the small chance that I am correct, this is going to be absolutely amazing. As a worker, heck money. I am thankful for my Mother and late Great Aunt for financially supporting me this far. I am thankful for my Father for encouraging me through great Iranian parabole, metaphor, inductively, and physically being with me and/in beautiful organizations like the First Robotics Competition. Thank you TechLead for your early content guiding me and for instructing me to invest in your crpyto project when it came out. Please, someone, help my guy soon (3/22/2022 3ish am), lol
+
+And to those on the other end of this application doubting: Don't be afraid, we are ready for this.
+
+This application might initially look like a joke, but seriously, look how many flippin' dominoes I set up. ¡13 Videos Coming Soon™! Please, take me seriously :P AND Take nothing seriously (Thank you for supporting this idea so far, you Amazing Comedian. Yeah, I'm talking to you... Who? You? Me!? Us! Steve!? Sam? Bahahahahaa(Give yourselves some more credit, you're all absolutely amazing, especially you, reader!!!) You may not see it, but you, everyone that ever exists and will exist, inspired me: While Shakespeare's universe is a stage, you may have forgetten that the person on the stage can choose to help others on the stage, or even *everyone:which, by definition, includes me*. Sorry. It took me so long to show you that(reader, YC Team, people in my life). I can be quite bad at communication - quite fat and inflexible if you ask me.
+
+How did you hear about Y Combinator?
+A friend named Jack Krause. I met him during my work at Aquisense Technologies. I owe a debt to the entire team
